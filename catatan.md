@@ -1,0 +1,8 @@
+- tambahkan warna background untuk setiap data di dashboard (done)
+- inputan option mapel ganti menjadi input sendiri (done)
+- rpp di mapel tambahkan supaya bisa choice lebih dari 1 (done)
+- tambahkan fitur rekap disetiap data (done untuk data mapel, kepala Labkom, )
+- untuk fitur download tambahkan jika data hanya 1 maka outputnya file saja dan jika data lebih dari 1 maka outputnya berbentuk file zip (done)
+- untuk fitur edit semua data dirapihkan lagi (done)
+Untuk penyerahan rapor ubah datanya menjadi masing-masing kelas bisa untuk input ()
+Penyesuaian filter di walas, kepsek, kurikulum, kesiswaan, dan dupervisi ()    
